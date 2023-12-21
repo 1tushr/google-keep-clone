@@ -15,7 +15,7 @@ This is a simple, web-based Notes application built using React. It allows users
 1. Clone the repository:
 
 ```
- git clone https://github.com/yourusername/notes-app.git
+ git clone https://github.com/1tushr/google-keep-clone
 ```
 
 2. Navigate to the project directory:
