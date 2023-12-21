@@ -33,7 +33,7 @@ npm install
 4. Start the development server:
 
 ```
-npm start
+npm run dev
 ```
 
 The application will be available at `http://localhost:5173`.
@@ -56,3 +56,5 @@ The application will be available at `http://localhost:5173`.
 
 
 Project Link: [https://github.com/1tushr/google-keep-clone](https://github.com/1tushr/google-keep-clone)
+
+Live Link: [https://keping-notes.netlify.app/](https://keping-notes.netlify.app/)
